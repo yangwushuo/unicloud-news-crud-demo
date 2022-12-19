@@ -5,12 +5,17 @@
 ### 案例截图
 
 **首页**
-<img src="https://www.helloimg.com/images/2022/12/19/oB4v3M.png" alt="首页" style="height:50%;" />
+
+<img src="https://www.helloimg.com/images/2022/12/19/oB4v3M.png" alt="首页" style="width:35%;" />
 **首页修改删除操作**
-<img src="https://www.helloimg.com/images/2022/12/19/oB4wMP.png" alt="首页修改删除操作"  style="height:50%;" />
+
+<img src="https://www.helloimg.com/images/2022/12/19/oB4wMP.png" alt="首页修改删除操作"  style="width:35%;"/>
 **新闻详情页面**
-<img src="https://www.helloimg.com/images/2022/12/19/oB4066.png" alt="新闻详情页面" style="height:50%;"  />
+
+<img src="https://www.helloimg.com/images/2022/12/19/oB4066.png" alt="新闻详情页面" style="width:35%;"  />
 **添加新闻**
-<img src="https://www.helloimg.com/images/2022/12/19/oB4OcX.png" alt="添加新闻"  style="height:50%;" />
+
+<img src="https://www.helloimg.com/images/2022/12/19/oB4OcX.png" alt="添加新闻"  style="width:35%;" />
 **修改页面**
-<img src="https://www.helloimg.com/images/2022/12/19/oB4crg.png" alt="修改新闻"  style="height:50%;" />
+
+<img src="https://www.helloimg.com/images/2022/12/19/oB4crg.png" alt="修改新闻"  style="width:35%;" />
