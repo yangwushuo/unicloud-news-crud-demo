@@ -1,0 +1,7 @@
+{
+  "name": "delArticle",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "新闻",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "news-box": "/components/newsBox/newsBox"
+  }
+}

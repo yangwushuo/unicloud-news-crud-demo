@@ -1,0 +1,7 @@
+{
+	"name": "demoFun",
+	"dependencies": {},
+	"extensions": {
+		"uni-cloud-jql": {}
+	}
+}

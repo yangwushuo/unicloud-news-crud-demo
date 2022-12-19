@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "编辑新闻",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "van-field": "/wxcomponents/vant/dist/field/index",
+    "van-uploader": "/wxcomponents/vant/dist/uploader/index",
+    "van-dialog": "/wxcomponents/vant/dist/dialog/index",
+    "van-popup": "/wxcomponents/vant/dist/popup/index"
+  }
+}

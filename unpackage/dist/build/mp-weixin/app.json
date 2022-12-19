@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/edit/edit",
+    "pages/add/add",
+    "pages/newDetail/newDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "新闻",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "van-icon": "/wxcomponents/vant/dist/icon/index",
+    "van-button": "/wxcomponents/vant/dist/button/index",
+    "van-overlay": "/wxcomponents/vant/dist/overlay/index",
+    "van-loading": "/wxcomponents/vant/dist/loading/index",
+    "van-swipe-cell": "/wxcomponents/vant/dist/swipe-cell/index",
+    "van-transition": "/wxcomponents/vant/dist/transition/index"
+  }
+}

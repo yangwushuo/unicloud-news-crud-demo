@@ -1,0 +1,82 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "新闻",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/edit/edit",
+			"style": {
+				"navigationBarTitleText": "编辑新闻",
+				"enablePullDownRefresh": false,
+				"usingComponents": {
+					"van-field": "/wxcomponents/vant/dist/field/index",
+					"van-uploader": "/wxcomponents/vant/dist/uploader/index",
+					"van-dialog": "/wxcomponents/vant/dist/dialog/index",
+					"van-popup": "/wxcomponents/vant/dist/popup/index"
+				}
+			}
+
+		}, {
+			"path": "pages/add/add",
+			"style": {
+				"navigationBarTitleText": "添加新闻",
+				"enablePullDownRefresh": false,
+				"usingComponents": {
+					"van-field": "/wxcomponents/vant/dist/field/index",
+					"van-uploader": "/wxcomponents/vant/dist/uploader/index",
+					"van-dialog": "/wxcomponents/vant/dist/dialog/index",
+					"van-popup": "/wxcomponents/vant/dist/popup/index"
+				}
+			}
+
+		}, {
+			"path": "pages/newDetail/newDetail",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "新闻",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"usingComponents": {
+			"van-icon": "/wxcomponents/vant/dist/icon/index",
+			"van-button": "/wxcomponents/vant/dist/button/index",
+			"van-overlay": "/wxcomponents/vant/dist/overlay/index",
+			"van-loading": "/wxcomponents/vant/dist/loading/index",
+			"van-swipe-cell": "/wxcomponents/vant/dist/swipe-cell/index",
+			"van-transition": "/wxcomponents/vant/dist/transition/index"
+		}
+	},
+	// "tabBar": {
+	// 	"color": "#7A7E83",
+	// 	"selectedColor": "#ff7b00",
+	// 	"backgroundColor": "#ffffff",
+	// 	"fontSize": "18px",
+	// 	"borderStyle": "white",
+	// 	"blurEffect": "dark",
+	// 	"height": "120rpx",
+	// 	"spacing": "10rpx",
+	// 	"list": [{
+	// 			"text": "新闻",
+	// 			"pagePath": "pages/index/index",
+	// 			"iconPath": "static/icon/tabbar-icon/news.png",
+	// 			"selectedIconPath": "static/icon/tabbar-icon/selectedNews.png"
+	// 		},
+	// 		{
+	// 			"text": "添加新闻",
+	// 			"pagePath": "pages/add/add",
+	// 			"iconPath": "static/icon/tabbar-icon/addNews.png",
+	// 			"selectedIconPath": "static/icon/tabbar-icon/selectedAddNews.png"
+	// 		}
+	// 	]
+	// },
+	"uniIdRouter": {}
+}
